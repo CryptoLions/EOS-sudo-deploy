@@ -1,6 +1,6 @@
 # EOS eosio.sudo create/deploy  
-Step by step eosio.sudo deploy and test 
-(based on manual: https://github.com/EOSIO/eosio.contracts/tree/master/eosio.sudo)
+Step by step eosio.sudo deploy and test (based on eosio.sudo <a href="https://github.com/EOSIO/eosio.contracts/tree/master/eosio.sudo" target="_blank">manual</a>)
+
 
  1_XX - eosio.sudo account creation  
  2_XX - eosio.sudo contract deploy  
